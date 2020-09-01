@@ -1,6 +1,7 @@
 # media_grouper
-
+TBA
 ## Dependencies
+```
 sudo pip3 install matplotlib
 sudo pip3 install keras
 sudo pip3 install mtcnn
@@ -11,3 +12,4 @@ sudo pip3 install keras_preprocessing
 sudo pip3 install image-quality
 sudo pip3 install guietta
 sudo pip3 install ffmpeg-python
+```
